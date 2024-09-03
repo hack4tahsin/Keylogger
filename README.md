@@ -19,7 +19,7 @@ That said, some uses of keyloggers could be considered ethical or appropriate in
 
 Run the keylogger.py and then whatever you type will save to the keyfile.txt
 
-![image](https://github.com/user-attachments/assets/1e200b9e-bed5-4575-8ab2-1a62dc890bdf)
+![Screenshot 2024-09-03 223706](https://github.com/user-attachments/assets/cbd77ef4-c7b9-4ceb-9231-22ac5f18edd6)
 
 ## Getting Access To Facebook:
 
